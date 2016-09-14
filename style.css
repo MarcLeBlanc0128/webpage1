@@ -1,5 +1,6 @@
 h1 {
   text-align: center;
+  color: white
 }
 img {
   display: block;
@@ -8,13 +9,13 @@ img {
 }
 p {
   text-align: center;
+  color: white
 }
 h3{
   text-align:center;
+  color: white
 }
-p {
-  color: black;
-  background-color: white;
-  margin: 25px;
+
+#Mw{
+  background-image: url('https://i.ytimg.com/vi/SehiF1pvew8/maxresdefault.jpg');
 }
-  
